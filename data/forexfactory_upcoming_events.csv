@@ -1,0 +1,96 @@
+event_id,event_base_id,date,release_time_utc,event_name,prefixed_name,currency,country,impact,actual,forecast,previous,surprise,actual_raw,forecast_raw,previous_raw,source,source_url
+150183,454,2026-05-11,2026-05-11 01:30:00,CPI y/y,CH CPI y/y,CNY,CH,medium,,0.9,1.0,,,0.9%,1.0%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=150183
+150184,455,2026-05-11,2026-05-11 01:30:00,PPI y/y,CH PPI y/y,CNY,CH,medium,,1.7,0.5,,,1.7%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=150184
+146940,909,2026-05-11,2026-05-11 13:48:00,Cleveland Fed Inflation Expectations,US Cleveland Fed Inflation Expectations,USD,US,low,,,3.1,,,,3.1%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=146940
+149828,232,2026-05-11,2026-05-11 14:00:00,Existing Home Sales,US Existing Home Sales,USD,US,low,,4050000.0,3980000.0,,,4.05M,3.98M,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=149828
+150824,114,2026-05-11,2026-05-11 23:01:00,BRC Retail Sales Monitor y/y,UK BRC Retail Sales Monitor y/y,GBP,UK,low,,0.7,3.1,,,0.7%,3.1%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=150824
+149620,359,2026-05-11,2026-05-11 23:30:00,Household Spending y/y,JN Household Spending y/y,JPY,JN,low,,-1.4,-1.8,,,-1.4%,-1.8%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=149620
+148690,633,2026-05-11,2026-05-11 23:50:00,BOJ Summary of Opinions,JN BOJ Summary of Opinions,JPY,JN,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=148690
+147474,323,2026-05-12,2026-05-12 01:30:00,NAB Business Confidence,AU NAB Business Confidence,AUD,AU,low,,,-29.0,,,,-29,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=147474
+150282,574,2026-05-12,2026-05-12 03:35:00,10-y Bond Auction,JN 10-y Bond Auction,JPY,JN,low,,,,,,,2.35|2.6,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=150282
+149658,145,2026-05-12,2026-05-12 05:00:00,Leading Indicators,JN Leading Indicators,JPY,JN,low,,114.4,112.4,,,114.4%,112.4%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=149658
+151151,170,2026-05-12,2026-05-12 06:00:00,German Final CPI m/m,GE Final CPI m/m,EUR,GE,low,,0.6,0.6,,,0.6%,0.6%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=151151
+147329,96,2026-05-12,2026-05-12 06:30:00,PPI m/m,SZ PPI m/m,CHF,SZ,low,,0.1,0.2,,,0.1%,0.2%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=147329
+152926,518,2026-05-12,2026-05-12 07:15:00,FOMC Member Williams Speaks,US FOMC Member Williams Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=152926
+147750,223,2026-05-12,2026-05-12 08:00:00,Italian Industrial Production m/m,IT Industrial Production m/m,EUR,IT,low,,0.2,0.1,,,0.2%,0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=147750
+150494,313,2026-05-12,2026-05-12 09:00:00,German ZEW Economic Sentiment,GE ZEW Economic Sentiment,EUR,GE,low,,-19.1,-17.2,,,-19.1,-17.2,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=150494
+150495,314,2026-05-12,2026-05-12 09:00:00,ZEW Economic Sentiment,EZ ZEW Economic Sentiment,EUR,EZ,low,,-21.6,-20.9,,,-21.6,-20.9,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=150495
+147486,463,2026-05-12,2026-05-12 09:30:00,Annual Budget Release,AU Annual Budget Release,AUD,AU,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=147486
+146947,570,2026-05-12,2026-05-12 10:00:00,NFIB Small Business Index,US NFIB Small Business Index,USD,US,low,,96.0,95.8,,,96.0,95.8,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=146947
+151032,929,2026-05-12,2026-05-12 12:15:00,ADP Weekly Employment Change,US ADP Weekly Employment Change,USD,US,low,,,39300.0,,,,39.3K,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=151032
+148330,78,2026-05-12,2026-05-12 12:30:00,CPI m/m,US CPI m/m,USD,US,high,,0.6,0.9,,,0.6%,0.9%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148330
+148347,884,2026-05-12,2026-05-12 12:30:00,CPI y/y,US CPI y/y,USD,US,high,,3.7,3.3,,,3.7%,3.3%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148347
+148361,79,2026-05-12,2026-05-12 12:30:00,Core CPI m/m,US Core CPI m/m,USD,US,high,,0.3,0.2,,,0.3%,0.2%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148361
+151761,247,2026-05-12,2026-05-12 14:30:00,CB Leading Index m/m,AU CB Leading Index m/m,AUD,AU,low,,,1.1,,,,1.1%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=151761
+152888,487,2026-05-12,2026-05-12 16:00:00,Fed Chair Nomination Vote,US Fed Chair Nomination Vote,USD,US,high,,,,,,Pass,,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=152888
+152918,889,2026-05-12,2026-05-12 17:00:00,FOMC Member Goolsbee Speaks,US FOMC Member Goolsbee Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=152918
+148897,519,2026-05-12,2026-05-12 17:01:00,10-y Bond Auction,US 10-y Bond Auction,USD,US,low,,,,,,,4.28|2.4,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148897
+146802,322,2026-05-12,2026-05-12 18:00:00,Federal Budget Balance,US Federal Budget Balance,USD,US,low,,37500000000.0,-164100000000.0,,,37.5B,-164.1B,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=146802
+147073,754,2026-05-12,2026-05-12 20:30:00,API Weekly Statistical Bulletin,US API Weekly Statistical Bulletin,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=147073
+148840,388,2026-05-12,2026-05-12 23:50:00,Bank Lending y/y,JN Bank Lending y/y,JPY,JN,low,,4.6,4.8,,,4.6%,4.8%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148840
+149546,217,2026-05-12,2026-05-12 23:50:00,Current Account,JN Current Account,JPY,JN,low,,2940000000000.0,2710000000000.0,,,2.94T,2.71T,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=149546
+148499,182,2026-05-13,2026-05-13 01:30:00,Wage Price Index q/q,AU Wage Price Index q/q,AUD,AU,medium,,0.8,0.8,,,0.8%,0.8%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148499
+149380,309,2026-05-13,2026-05-13 03:00:00,Inflation Expectations q/q,NZ Inflation Expectations q/q,NZD,NZ,low,,,2.37,,,,2.37%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=149380
+148811,324,2026-05-13,2026-05-13 05:00:00,Economy Watchers Sentiment,JN Economy Watchers Sentiment,JPY,JN,low,,41.7,42.2,,,41.7,42.2,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148811
+151149,291,2026-05-13,2026-05-13 06:00:00,German WPI m/m,GE WPI m/m,EUR,GE,low,,1.0,2.7,,,1.0%,2.7%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=151149
+147543,171,2026-05-13,2026-05-13 06:45:00,French Final CPI m/m,FR Final CPI m/m,EUR,FR,low,,1.0,1.0,,,1.0%,1.0%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=147543
+151269,220,2026-05-13,2026-05-13 09:00:00,Industrial Production m/m,EZ Industrial Production m/m,EUR,EZ,low,,0.3,0.4,,,0.3%,0.4%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=151269
+151350,41,2026-05-13,2026-05-13 09:00:00,Flash GDP q/q,EZ Flash GDP q/q,EUR,EZ,low,,0.1,0.1,,,0.1%,0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=151350
+151351,808,2026-05-13,2026-05-13 09:00:00,Flash Employment Change q/q,EZ Flash Employment Change q/q,EUR,EZ,low,,0.2,0.2,,,0.2%,0.2%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=151351
+150446,541,2026-05-13,2026-05-13 09:34:00,German 30-y Bond Auction,GE 30-y Bond Auction,EUR,GE,low,,,,,,,3.58|1.4,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=150446
+148381,86,2026-05-13,2026-05-13 12:30:00,PPI m/m,US PPI m/m,USD,US,high,,0.5,0.5,,,0.5%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148381
+148399,87,2026-05-13,2026-05-13 12:30:00,Core PPI m/m,US Core PPI m/m,USD,US,high,,0.3,0.1,,,0.3%,0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148399
+151502,299,2026-05-13,2026-05-13 13:30:00,CB Leading Index m/m,UK CB Leading Index m/m,GBP,UK,low,,,-0.1,,,,-0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=151502
+152920,848,2026-05-13,2026-05-13 14:00:00,MPC Member Mann Speaks,UK MPC Member Mann Speaks,GBP,UK,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=152920
+148935,10,2026-05-13,2026-05-13 14:30:00,Crude Oil Inventories,US Crude Oil Inventories,USD,US,low,,,-2300000.0,,,,-2.3M,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148935
+152919,882,2026-05-13,2026-05-13 15:30:00,FOMC Member Collins Speaks,US FOMC Member Collins Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=152919
+148909,540,2026-05-13,2026-05-13 17:01:00,30-y Bond Auction,US 30-y Bond Auction,USD,US,low,,,,,,,4.88|2.4,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148909
+152921,651,2026-05-13,2026-05-13 17:15:00,FOMC Member Kashkari Speaks,US FOMC Member Kashkari Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=152921
+146565,891,2026-05-13,2026-05-13 17:30:00,BOC Summary of Deliberations,CA BOC Summary of Deliberations,CAD,CA,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=146565
+152922,918,2026-05-13,2026-05-13 18:30:00,Gov Council Member Alexopoulos Speaks,CA Gov Council Member Alexopoulos Speaks,CAD,CA,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=152922
+152931,832,2026-05-13,2026-05-13 19:15:00,ECB President Lagarde Speaks,EZ ECB President Lagarde Speaks,EUR,EZ,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=152931
+149130,361,2026-05-13,2026-05-13 22:45:00,Visitor Arrivals m/m,NZ Visitor Arrivals m/m,NZD,NZ,low,,,1.7,,,,1.7%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=149130
+150788,260,2026-05-13,2026-05-13 23:01:00,RICS House Price Balance,UK RICS House Price Balance,GBP,UK,low,,-25.0,-23.0,,,-25%,-23%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=150788
+148700,376,2026-05-13,2026-05-13 23:50:00,M2 Money Stock y/y,JN M2 Money Stock y/y,JPY,JN,low,,2.1,2.0,,,2.1%,2.0%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148700
+148098,293,2026-05-14,2026-05-14 01:00:00,MI Inflation Expectations,AU MI Inflation Expectations,AUD,AU,low,,,5.9,,,,5.9%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148098
+150298,575,2026-05-14,2026-05-14 03:35:00,30-y Bond Auction,JN 30-y Bond Auction,JPY,JN,low,,,,,,,3.70|3.1,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=150298
+151658,392,2026-05-14,2026-05-14 05:00:00,Bank Holiday,SZ Bank Holiday,CHF,SZ,holiday,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151658
+151534,804,2026-05-14,2026-05-14 06:00:00,GDP m/m,UK GDP m/m,GBP,UK,high,,-0.2,0.5,,,-0.2%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151534
+151535,119,2026-05-14,2026-05-14 06:00:00,Goods Trade Balance,UK Goods Trade Balance,GBP,UK,low,,-20100000000.0,-18800000000.0,,,-20.1B,-18.8B,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151535
+151536,385,2026-05-14,2026-05-14 06:00:00,Index of Services 3m/3m,UK Index of Services 3m/3m,GBP,UK,low,,0.6,0.5,,,0.6%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151536
+151537,193,2026-05-14,2026-05-14 06:00:00,Industrial Production m/m,UK Industrial Production m/m,GBP,UK,low,,-0.3,0.5,,,-0.3%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151537
+151538,194,2026-05-14,2026-05-14 06:00:00,Manufacturing Production m/m,UK Manufacturing Production m/m,GBP,UK,low,,-0.1,-0.1,,,-0.1%,-0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151538
+151539,599,2026-05-14,2026-05-14 06:00:00,Construction Output m/m,UK Construction Output m/m,GBP,UK,low,,-0.5,1.0,,,-0.5%,1.0%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151539
+151596,204,2026-05-14,2026-05-14 06:00:00,Prelim Business Investment q/q,UK Prelim Business Investment q/q,GBP,UK,low,,1.1,-2.7,,,1.1%,-2.7%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151596
+151597,33,2026-05-14,2026-05-14 06:00:00,Prelim GDP q/q,UK Prelim GDP q/q,GBP,UK,medium,,0.6,0.1,,,0.6%,0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151597
+151665,396,2026-05-14,2026-05-14 06:01:00,French Bank Holiday,FR Bank Holiday,EUR,FR,holiday,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151665
+151682,391,2026-05-14,2026-05-14 06:02:00,German Bank Holiday,GE Bank Holiday,EUR,GE,holiday,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151682
+150145,476,2026-05-14,2026-05-14 08:03:00,M2 Money Supply y/y,CH M2 Money Supply y/y,CNY,CH,low,,8.5,8.5,,,8.5%,8.5%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=150145
+150146,477,2026-05-14,2026-05-14 08:03:00,New Loans,CH New Loans,CNY,CH,low,,,2990000000000.0,,,,2990B,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=150146
+146997,11,2026-05-14,2026-05-14 12:30:00,Unemployment Claims,US Unemployment Claims,USD,US,medium,,206000.0,200000.0,,,206K,200K,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=146997
+148029,102,2026-05-14,2026-05-14 12:30:00,Retail Sales m/m,US Retail Sales m/m,USD,US,high,,0.6,1.7,,,0.6%,1.7%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148029
+148041,112,2026-05-14,2026-05-14 12:30:00,Core Retail Sales m/m,US Core Retail Sales m/m,USD,US,high,,0.6,1.9,,,0.6%,1.9%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148041
+148415,256,2026-05-14,2026-05-14 12:30:00,Import Prices m/m,US Import Prices m/m,USD,US,low,,1.0,0.8,,,1.0%,0.8%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148415
+149251,362,2026-05-14,2026-05-14 12:30:00,Wholesale Sales m/m,CA Wholesale Sales m/m,CAD,CA,low,,1.4,2.0,,,1.4%,2.0%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=149251
+146861,489,2026-05-14,2026-05-14 14:00:00,Mortgage Delinquencies,US Mortgage Delinquencies,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=146861
+148084,153,2026-05-14,2026-05-14 14:00:00,Business Inventories m/m,US Business Inventories m/m,USD,US,low,,0.8,0.4,,,0.8%,0.4%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148084
+152932,912,2026-05-14,2026-05-14 14:15:00,FOMC Member Schmid Speaks,US FOMC Member Schmid Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=152932
+148752,26,2026-05-14,2026-05-14 14:30:00,Natural Gas Storage,US Natural Gas Storage,USD,US,low,,,63000000000.0,,,,63B,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148752
+152923,850,2026-05-14,2026-05-14 15:15:00,MPC Member Pill Speaks,UK MPC Member Pill Speaks,GBP,UK,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=152923
+152924,913,2026-05-14,2026-05-14 17:00:00,FOMC Member Hammack Speaks,US FOMC Member Hammack Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=152924
+152925,880,2026-05-14,2026-05-14 21:30:00,FOMC Member Barr Speaks,US FOMC Member Barr Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=152925
+152927,518,2026-05-14,2026-05-14 21:45:00,FOMC Member Williams Speaks,US FOMC Member Williams Speaks,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=152927
+149343,149,2026-05-14,2026-05-14 22:30:00,BusinessNZ Manufacturing Index,NZ BusinessNZ Manufacturing Index,NZD,NZ,low,,,53.2,,,,53.2,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=149343
+149331,101,2026-05-14,2026-05-14 22:45:00,FPI m/m,NZ FPI m/m,NZD,NZ,low,,,-0.6,,,,-0.6%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=149331
+149938,148,2026-05-14,2026-05-14 23:50:00,PPI y/y,JN PPI y/y,JPY,JN,low,,3.0,2.6,,,3.0%,2.6%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=149938
+149694,321,2026-05-15,2026-05-15 06:00:00,Prelim Machine Tool Orders y/y,JN Prelim Machine Tool Orders y/y,JPY,JN,low,,,28.1,,,,28.1%,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=149694
+150551,612,2026-05-15,2026-05-15 08:00:00,ECB Economic Bulletin,EZ ECB Economic Bulletin,EUR,EZ,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=150551
+149557,201,2026-05-15,2026-05-15 12:15:00,Housing Starts,CA Housing Starts,CAD,CA,low,,243000.0,236000.0,,,243K,236K,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=149557
+148622,207,2026-05-15,2026-05-15 12:30:00,Empire State Manufacturing Index,US Empire State Manufacturing Index,USD,US,low,,7.3,11.0,,,7.3,11.0,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=148622
+149242,363,2026-05-15,2026-05-15 12:30:00,Manufacturing Sales m/m,CA Manufacturing Sales m/m,CAD,CA,low,,3.4,3.6,,,3.4%,3.6%,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=149242
+149263,374,2026-05-15,2026-05-15 12:30:00,Foreign Securities Purchases,CA Foreign Securities Purchases,CAD,CA,low,,,6170000000.0,,,,6.17B,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=149263
+147035,191,2026-05-15,2026-05-15 13:15:00,Industrial Production m/m,US Industrial Production m/m,USD,US,low,,0.2,-0.5,,,0.2%,-0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=147035
+147047,192,2026-05-15,2026-05-15 13:15:00,Capacity Utilization Rate,US Capacity Utilization Rate,USD,US,low,,75.8,75.7,,,75.8%,75.7%,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=147047
+148786,459,2026-05-15,2026-05-15 20:00:00,Treasury Currency Report,US Treasury Currency Report,USD,US,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may15.2026#detail=148786
+149355,852,2026-05-17,2026-05-17 22:30:00,BusinessNZ Services Index,NZ BusinessNZ Services Index,NZD,NZ,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may17.2026#detail=149355
+150778,243,2026-05-17,2026-05-17 23:01:00,Rightmove HPI m/m,UK Rightmove HPI m/m,GBP,UK,low,,,,,,,,forexfactory,https://www.forexfactory.com/calendar?day=may17.2026#detail=150778

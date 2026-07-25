@@ -1,0 +1,8 @@
+event_id,event_base_id,date,release_time_utc,event_name,prefixed_name,currency,country,impact,actual,forecast,previous,surprise,actual_raw,forecast_raw,previous_raw,source,source_url
+150184,455,2026-05-11,2026-05-11 01:30:00,PPI y/y,CH PPI y/y,CNY,CH,medium,,1.7,0.5,,,1.7%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may11.2026#detail=150184
+148330,78,2026-05-12,2026-05-12 12:30:00,CPI m/m,US CPI m/m,USD,US,high,,0.6,0.9,,,0.6%,0.9%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148330
+148361,79,2026-05-12,2026-05-12 12:30:00,Core CPI m/m,US Core CPI m/m,USD,US,high,,0.3,0.2,,,0.3%,0.2%,forexfactory,https://www.forexfactory.com/calendar?day=may12.2026#detail=148361
+148399,87,2026-05-13,2026-05-13 12:30:00,Core PPI m/m,US Core PPI m/m,USD,US,high,,0.3,0.1,,,0.3%,0.1%,forexfactory,https://www.forexfactory.com/calendar?day=may13.2026#detail=148399
+151534,804,2026-05-14,2026-05-14 06:00:00,GDP m/m,UK GDP m/m,GBP,UK,high,,-0.2,0.5,,,-0.2%,0.5%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=151534
+148029,102,2026-05-14,2026-05-14 12:30:00,Retail Sales m/m,US Retail Sales m/m,USD,US,high,,0.6,1.7,,,0.6%,1.7%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148029
+148041,112,2026-05-14,2026-05-14 12:30:00,Core Retail Sales m/m,US Core Retail Sales m/m,USD,US,high,,0.6,1.9,,,0.6%,1.9%,forexfactory,https://www.forexfactory.com/calendar?day=may14.2026#detail=148041

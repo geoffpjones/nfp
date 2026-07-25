@@ -3,3 +3,4 @@ numpy>=1.21.0
 pyarrow>=10.0.0
 requests>=2.31.0
 matplotlib>=3.7.0
+cloudscraper>=1.2.71

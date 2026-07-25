@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compatibility entrypoint for the Dukascopy NFP backtest."""
+"""Compatibility entrypoint for the shared-data NFP backtest."""
 
 from nfp_backtest_dukascopy import main
 
